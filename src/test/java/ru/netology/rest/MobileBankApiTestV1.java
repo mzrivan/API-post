@@ -12,7 +12,7 @@ class ApiTestPost {
         // Предусловия
         given()
                 .baseUri("https://postman-echo.com")
-                //.contentType("text/plain; charset=UTF-8")
+                .contentType("text/plain; charset=UTF-8")
                 .body("Информация") // отправляемые данные (заголовки и query можно выставлять аналогично)
                     // Выполняемые действия
                 .when()
