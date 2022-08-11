@@ -1,1 +1,1 @@
-# API-CI [![Build status](https://ci.appveyor.com/api/projects/status/1ua40i539lq1poyt?svg=true)](https://ci.appveyor.com/project/mzrivan/api-ci)
+# API-POST [![Build status](https://ci.appveyor.com/api/projects/status/0qvn170jygcwgk3h?svg=true)](https://ci.appveyor.com/project/mzrivan/api-post)
